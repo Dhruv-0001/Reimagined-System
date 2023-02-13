@@ -1,31 +1,33 @@
-# REIMAGINED-SYSTEM
+# Reimagined-System
+This is my Internship project report which includes the project on automation using Mindsphere.
 
-THIS IS MY INTERNSHIP PROJECT REPORT WHICH INCLUDES THE PROJECT ON AUTOMATION USING MINDSPHERE.
+### Internship project report
 
-## INTERNSHIP PROJECT REPORT
+- This repository showcases my work during my Internship at Siemens.
 
-THIS REPOSITORY SHOWCASES MY WORK DURING MY INTERNSHIP AT SIEMENS (27TH JUNE, 2022 TO 12TH AUGUST,2022).
+### Projects :
+- I was a trainee in the R&D department. My work is basically divided into two projects- 
 
-## PROJECTS :
-I WAS A TRAINEE IN THE R&D DEPARTMENT. MY WORK IS BASICALLY DIVIDED INTO TWO PROJECTS 
-
-## 1) PROGRAMMING OF LABS-
+### 1) Programming of labs-
  
- PLC PROGRAMMING OF THE EXISTING LABS IN THE DEPARTMENT ON LOGO AND TIA PORTAL SOFTWARES.
+- PLC Programming of the existing labs in the department on Logo and TIA portal software.
  
 https://user-images.githubusercontent.com/109892892/185663092-ed77ad54-19ab-4baa-993e-01959d824a63.mp4
 
 
- ## 2) AUTOMATION USING MINDSPHERE-
+### 2) Automation using Mindsphere -
 
- DEPLOYING AN APP ON THE MINDSPHERE WHICH IS THE CLOUD SERVICE OF SIEMENS BASED ON INTERNET OF THINGS. MINDCONNECT IOT MODULE WAS USED FOR CREATING AN API WHICH TRANSFERS THE DATA FROM THE PLC TO THE APP. THUS APP CAN BE USED TO REMOTELY CONTROL THE WORKING OF THE LABS, THUS AUTOMATING THEM. 
+- Deploying an app on the mindsphere which is the cloud service of Siemens based on internet of things. 
+- Mindconnect IOT module was used for creating an api which transfers the data from the plc to the app.
+- Thus app can be used to remotely control the working of the labs, thus automating them.
 
 https://user-images.githubusercontent.com/109892892/185663134-cfe73b98-a37d-4eff-8265-c1f478c32cb7.mp4
 
 
-## WORKING PLAN FOR AUTOMATION-
+### Working plan for Automation -
 
-THIS SHOWS THE COMPLETE WORKING PLAN FOR THE AUTOMATION CONCEPTUALISED BY ME. THE ABOVE FILES CONTAIN MY INTERNSHIP PROJECT REPORT AND RESEARCH.
+- This shows the complete working plan for the Automation conceptualised by me. 
+- The above files contain my Internship project report and research.
 
 ![PLC LAB AUTOMATION PLAN](https://user-images.githubusercontent.com/109892892/185663544-bc0da97b-48f2-4797-bee6-88cb49de30c0.png)
 
